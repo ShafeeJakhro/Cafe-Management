@@ -33,7 +33,3 @@ Contributions to this project are welcome. If you have any suggestions for impro
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust or expand upon this README according to your preferences and the specific details of your project!
